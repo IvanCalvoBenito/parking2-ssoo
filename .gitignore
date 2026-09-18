@@ -1,0 +1,29 @@
+﻿# Carpetas de compilación de Visual Studio
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.recipe
+*.tlog/
+*.exe
+
+# Cache y estado del IDE
+.vs/
+
+# Ficheros generados en tiempo de ejecución
+debug.log
+traza_x_dest.txt
+
+# Configuración local de usuario
+*.vcxproj.user
+*.suo
+
+# Editores / SO
+.vscode/
+*.swp
+.DS_Store
