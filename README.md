@@ -6,7 +6,7 @@ Simulación de la gestión de memoria de un sistema operativo con particiones
 de tamaño dinámico, mediante el símil de aparcar coches en una acera con
 cuatro algoritmos de colocación: **First Fit**, **Next Fit**, **Best Fit** y
 **Worst Fit**. Práctica de la asignatura **Sistemas Operativos II**
-(Universidad de Salamanca), curso 2023/24.
+(Universidad de Salamanca), curso 2025/26.
  
 Es la evolución en Windows de la primera práctica de la asignatura (la misma
 simulación, pero en Linux con procesos y memoria compartida System V/POSIX):
